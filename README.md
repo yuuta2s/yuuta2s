@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[miku](https://github.com/yuuta2s/yuuta2s/assets/153719101/9f9539f9-c616-4e03-931a-b2b652d8da4c)
+
 **yuuta2s/yuuta2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
