@@ -1,4 +1,3 @@
-![star]([[https://github.com/yuuta2s/yuuta2s/assets/153719101/c6dc4bda-49bf-45fd-9ad4-d139298f47d0](https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif))
 
 
 👋 Hello World! I'm Asmaâ, a passionate junior full-stack developer on an exciting journey of learning and growth with Simplon, an incredible organization dedicated to empowering developers.
