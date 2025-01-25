@@ -2,7 +2,7 @@
 
 👋 Hello World! I'm Asmaâ, a passionate junior full-stack developer on an exciting journey of learning and growth with Simplon, an incredible organization dedicated to empowering developers.
 
-🚀 Currently honing my skills in both front-end and back-end technologies, I thrive on turning ideas into interactive and efficient web applications. My toolbox includes HTML, CSS, JavaScript, React for the frontend, and Node.js, SQL, and PHP for the backend.
+🚀 Currently honing my skills in both front-end and back-end technologies, I thrive on turning ideas into interactive and efficient web applications. My toolbox includes HTML, CSS, JavaScript, React for the frontend, and Node.js, SQL for the backend.
 
 📚 I am a proud member of the Simplon community, where I am gaining hands-on experience and collaborating with like-minded individuals who share a passion for coding and innovation.
 
